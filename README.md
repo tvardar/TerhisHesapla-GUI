@@ -14,4 +14,3 @@ Python3 ile kodlanmıştır.
 
 Qt Creatör ile PyQT5 olarak arayüz tasarım dosyası terhis2.ui eklendi
 
-**** DEB PAKETİ EKLENDİ ****
